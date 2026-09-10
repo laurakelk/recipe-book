@@ -1,3 +1,4 @@
 pähkel
 sool
 muna
+piim

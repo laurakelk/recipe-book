@@ -1,0 +1,3 @@
+pähkel
+sool
+muna

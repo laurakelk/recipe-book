@@ -1,0 +1,4 @@
+pähkel
+sool
+muna
+piim
